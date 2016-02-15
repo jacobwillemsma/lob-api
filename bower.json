@@ -1,0 +1,18 @@
+{
+  "name": "lob-api",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Jacob Willemsma <jacob.willemsma@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/jacobwills/lob-api",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
